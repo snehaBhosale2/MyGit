@@ -1,8 +1,8 @@
 This is file to write helloworld....!!
 
-class myclass 
+class MyClass 
 {
-	public static void main()
+	public static void main(String args[])
 	{
 
 		system.out.println("hello world......welcome to  git...");
