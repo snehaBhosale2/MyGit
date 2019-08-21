@@ -1,9 +1,11 @@
 This is file to write helloworld....!!
 
-class myclass{
-public static void main(){
+class myclass 
+{
+	public static void main()
+	{
 
-sysout("hello world......welcome to  git...");
+		system.out.println("hello world......welcome to  git...");
 
-}
+	}
 }
