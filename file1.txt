@@ -3,13 +3,15 @@ This is file to write helloworld....!!
 class MyClass 
 {
 
-	private void myMethod(String str){
+	private static void myMethod(String str){
 			sysout(str);
+
 	}
 	public static void main(String args[])
 	{
 
 		system.out.println("hello world......welcome to  git...");
+		myMethod("Welcome to git...");
 
 	}
 }
