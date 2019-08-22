@@ -2,6 +2,10 @@ This is file to write helloworld....!!
 
 class MyClass 
 {
+
+	void myMethod(){
+			sysout("mymethod");
+	}
 	public static void main(String args[])
 	{
 
