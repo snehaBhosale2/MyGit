@@ -3,8 +3,8 @@ This is file to write helloworld....!!
 class MyClass 
 {
 
-	void myMethod(){
-			sysout("mymethod");
+	private void myMethod(String str){
+			sysout(str);
 	}
 	public static void main(String args[])
 	{
